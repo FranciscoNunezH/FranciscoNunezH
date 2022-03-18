@@ -3,7 +3,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" /> </p>
 
-### Hi there 👋, my name is Francisco N
 #### Passionate about programming
 ![Passionate about programming](https://twitter.com/DragonScaleApps/header_photo)
 
