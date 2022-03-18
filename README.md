@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Francisco Nuñez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h1 align="left">Hi 👋, I'm Francisco Nuñez</h1>
+<h3 align="left">A passionate frontend developer from Mexico</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" /> </p>
 
-<p align="center"> - 🌱 I’m currently learning Python, HTML5/CSS3/Javascript, Vue.js, Angular </p>
+<p align="left"> - 🌱 I’m currently learning Python, HTML5/CSS3/Javascript, Vue.js, Angular </p>
 
 
 
