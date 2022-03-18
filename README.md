@@ -8,7 +8,6 @@
 - 📫 How to reach me **dragonscaleapps@gmail.com**
 - ⚡ Fun fact **It takes less code to send a man to the moon than it does to run a cell phone.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
