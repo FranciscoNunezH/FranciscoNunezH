@@ -3,12 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" /> </p>
 
-
+<p align="center">
 - 🌱 I’m currently learning **Python, Java, HTML5, Vue.js, Angular**
 - 📫 How to reach me **dragonscaleapps@gmail.com**
 - ⚡ Fun fact **It takes less code to send a man to the moon than it does to run a cell phone.**
-
-<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
