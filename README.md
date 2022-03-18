@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" /> </p>
 
-<p align="center"> - 🌱 I’m currently learning **Python, HTML5/CSS3/Javascript, Vue.js, Angular** </p>
+<p align="center"> - 🌱 I’m currently learning Python, HTML5/CSS3/Javascript, Vue.js, Angular </p>
 
 
 
@@ -15,6 +15,6 @@
 
 [![FranciscoNunezH GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoNunezH&show_icons=true&theme=noctis_minimus)](https://github.com/FranciscoNunezH/github-readme-stats)
 
-<p align="center"> - ⚡ Fun fact **It takes less code to send a man to the moon than it does to run a cell phone.**</p>
+<p align="center"> - ⚡ Fun fact It takes less code to send a man to the moon than it does to run a cell phone.</p>
 
 
