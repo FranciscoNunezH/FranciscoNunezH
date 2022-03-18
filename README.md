@@ -7,7 +7,7 @@
 #### Passionate about programming
 ![Passionate about programming](https://pbs.twimg.com/profile_banners/1348662446/1647586466/600x200)
 
-<palign="center"> It is never too late to discover what you are passionate about and in my case now <br>
+<p align="center"> It is never too late to discover what you are passionate about and in my case now <br>
 I know that it is Programming. I find it fascinating how a set of characters ordered in a <br>
 certain way, form things as surprising as software. I like to imagine that we are modern <br>
 Alchemists. </p>
