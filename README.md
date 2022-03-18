@@ -3,9 +3,9 @@
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" /></p>
 
-### Hi there 👋, my name is Francisco N 
-#### Passionate about programming
-![Passionate about programming](https://pbs.twimg.com/profile_banners/1348662446/1647586466/600x200)
+<p align="center">### Hi there 👋, my name is Francisco N <br>
+#### Passionate about programming </p>
+
 
 <p align="center"> <img align="center" src="https://pbs.twimg.com/profile_banners/1348662446/1647586466/600x200" alt="francisconunezh" /></p>
 
