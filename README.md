@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif" alt="francisconunezh" /></p>
+<p align="center"> <img align="center" src="https://i.imgur.com/WtVOjr6.gif" alt="francisconunezh" /></p>
 <h1 align="center">Hi 👋, I'm Francisco Nuñez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
