@@ -1,6 +1,6 @@
 <p align="center"> <img align="center" src="https://i.imgur.com/WtVOjr6.gif" alt="francisconunezh" /></p>
 <h1 align="center">Hi 👋, I'm Francisco Nuñez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate developer from Mexico</h3>
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=francisconunezh&label=Profile%20views&color=0e75b6&style=flat" alt="francisconunezh" />
