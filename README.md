@@ -13,14 +13,13 @@
 
 
 class SoftwareDeveloper:
-
     def __init__(self):
         self.name = "Francisco Nuñez"
         self.role = "Desarrollador"
         self.job = "Analista de Datos"
 
-    def say_hello(self):
 
+    def say_hello(self):
         name = self.name
         role = self.role
         job = self.job
@@ -30,6 +29,7 @@ class SoftwareDeveloper:
         'transporte Publico de mi Ciudad. \nEspero que encuentres '
         'mi trabajo interesante.\n'
         .format(name = name, role = role, job = job))
+
 
 me = SoftwareDeveloper()
 me.say_hello()
