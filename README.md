@@ -28,7 +28,7 @@ class SoftwareDeveloper:
         print('Gracias por visitar mi perfil, mi nombre es {name}, '
         'Soy {role} y actualmente me desepeño como {job} de rutas de '
         'transporte Publico de mi Ciudad. \nEspero que encuentres '
-        'mi trabajo interesante.\n'
+        'mi perfil interesante.\n'
         .format(name = name, role = role, job = job))
 
 
@@ -42,7 +42,7 @@ Encuentro facinante como un conjunto de caracteres, ordenados, en un modo especi
 y manteniendo ciertas reglas, pueden crear cosas asombrosas. Me gusta imaginar que somos <br>
 una especie de Alquimistas modernos.
     
-##### Ahora
+##### AHORA
 
 - ✨ ....
 
