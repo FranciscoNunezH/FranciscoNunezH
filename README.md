@@ -41,6 +41,22 @@ me.say_hello()
 Encuentro facinante como un conjunto de caracteres, ordenados, en un modo especifico <br>
 y manteniendo ciertas reglas, pueden crear cosas asombrosas. Me gusta imaginar que somos <br>
 una especie de Alquimistas modernos.
+    
+##### Ahora
+
+- ✨ ....
+
+
+##### BIO
+
+- 🏢 I'm currently working at **???**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **???**
+- 💅 Designed: ???
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [ https://twitter.com/DragonScaleApps ]
+- ⚡️ Fun fact: I'm a huge fan of D&D
 
 <p> Skills: PYTHON/ JS / HTML / CSS </p>
 <p> - 🔭 I’m currently working on this page. </p>
