@@ -50,15 +50,14 @@ una especie de Alquimistas modernos.
 ##### BIO
 
 - 🏢 I'm currently working at **???**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.psd`
 - 🌍 I'm mostly active within the **???**
 - 💅 Designed: ???
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **Python**, **Javascript**, **development**
 - 📫 Reach me: [ https://twitter.com/DragonScaleApps ]
-- ⚡️ Fun fact: I'm a huge fan of D&D
+- ⚡️ Fun fact: I'm a huge fan of D&D / Magic the Gathering
 
-<p> Skills: PYTHON/ JS / HTML / CSS </p>
 <p> - 🔭 I’m currently working on this page. </p>
 
 
