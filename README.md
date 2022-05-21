@@ -43,21 +43,6 @@ y manteniendo ciertas reglas, pueden crear cosas asombrosas. Me gusta imaginar q
 una especie de Alquimistas modernos.
     
 ##### AHORA
-
-- ✨ ....
-
-
-##### BIO
-
-- 🏢 I'm currently working at **???**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.psd`
-- 🌍 I'm mostly active within the **???**
-- 💅 Designed: ???
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Python**, **Javascript**, **development**
-- 📫 Reach me: [ https://twitter.com/DragonScaleApps ]
-- ⚡️ Fun fact: I'm a huge fan of D&D / Magic the Gathering
-
 <p> - 🔭 I’m currently working on this page. </p>
 
 
