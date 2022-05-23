@@ -35,18 +35,11 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hello()
 ```
-
 <br>
-<p>Nunca es tarde para descubrir lo que te apasiona. En mi caso es la programación.<br>
-Encuentro facinante como un conjunto de caracteres, ordenados, en un modo especifico <br>
-y manteniendo ciertas reglas, pueden crear cosas asombrosas. Me gusta imaginar que somos <br>
-una especie de Alquimistas modernos.
-    
-##### AHORA
-<p> - 🔭 I’m currently working on this page. </p>
+<br>
+<em> "La función de un buen software es hacer que lo complejo aparente ser simple" </em><br>
+<em>-- Grady Booch</em>
 
-
-## 🗂️ Highlight Projects
 
 
 
