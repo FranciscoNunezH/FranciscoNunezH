@@ -12,19 +12,15 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-def say_hello(nombre, rol, puesto):
-    # Use a breakpoint in the code line below to debug your script.
+# Función que imprime un mensaje.
+def say_hello(nombre, rol, puesto):    
     print(f'Hola, gracias por visitar mi perfil, mi nombre es {nombre}, Soy {rol}.'
           f'\nActualmente me desempeño como {puesto} '
           f'algunas rutas de transporte publico de mi Ciudad.'
           f'\nEspero que encuentres interesante mi trabajo.')
 
 
-# Press the green button in the gutter to run the script.
+# Esta parte esta relacionada en como el interprete le un script de Python.
 if __name__ == '__main__':
     name = "Francisco Nuñez"
     role = "Desarrollador"
