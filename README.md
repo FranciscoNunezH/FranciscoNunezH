@@ -13,27 +13,24 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Francisco Nuñez"
-        self.role = "Desarrollador"
-        self.job = "Analista de Datos"
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+def say_hello(nombre, rol, puesto):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hola, gracias por visitar mi perfil, mi nombre es {nombre}, Soy {rol}.'
+          f'\nActualmente me desempeño como {puesto} '
+          f'algunas rutas de transporte publico de mi Ciudad.'
+          f'\nEspero que encuentres interesante mi trabajo.')
 
 
-    def say_hello(self):
-        name = self.name
-        role = self.role
-        job = self.job
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    name = "Francisco Nuñez"
+    role = "Desarrollador"
+    job = "Analista de Datos"
 
-        print('Gracias por visitar mi perfil, mi nombre es {name}, '
-        'Soy {role} y actualmente me desepeño como {job} de rutas de '
-        'transporte Publico de mi Ciudad. \nEspero que encuentres '
-        'mi perfil interesante.\n'
-        .format(name = name, role = role, job = job))
-
-
-me = SoftwareDeveloper()
-me.say_hello()
+    say_hello(name, role, job)
 ```
 <br>
 <br>
