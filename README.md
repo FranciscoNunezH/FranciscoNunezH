@@ -20,7 +20,7 @@ def say_hello(nombre, rol, puesto):
           f'\nEspero que encuentres interesante mi trabajo.')
 
 
-# Esta parte esta relacionada en como el interprete le un script de Python.
+# Ejecuta todas las instrucciones que contiene.
 if __name__ == '__main__':
     name = "Francisco Nuñez"
     role = "Desarrollador"
