@@ -16,7 +16,7 @@
 def say_hello(nombre, rol, puesto):    
     print(f'Hola, gracias por visitar mi perfil, mi nombre es {nombre}, Soy {rol}.'
           f'\nActualmente me desempeño como {puesto} de '
-          f'algunas rutas de transporte publico de mi Ciudad.'
+          f'un par de rutas de transporte publico de mi Ciudad.'
           f'\nEspero que encuentres interesante mi trabajo.')
 
 
