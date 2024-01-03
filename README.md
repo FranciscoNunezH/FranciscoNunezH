@@ -9,9 +9,6 @@
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class Perfil:
     def __init__(self, nombre, titulo, habilidades, nivel_idioma):
         self.nombre = nombre
@@ -21,7 +18,7 @@ class Perfil:
 
     def crear_biografia(self):
         biografia = (
-            f"👋 ¡Hola, soy {self.nombre}! {self.titulo} apasionado por la programación y la tecnología. Mis habilidades incluyen: {self.habilidades}."
+            f"👋 ¡Hola, soy {self.nombre}! {self.titulo} apasionado por la programación y la tecnología. Mis habilidades incluyen:  {self.habilidades}. "
             f"¡Conéctemos y colaboremos! 💻 #TechEnthusiast #Programming #Developer #DataAnalyst #CodeNewbie #CodingCommunity #Django"
         )
         return biografia
@@ -35,6 +32,7 @@ mi_perfil = Perfil(
 
 biografia = mi_perfil.crear_biografia()
 print(biografia)
+
 ```
 <br>
 <br>
