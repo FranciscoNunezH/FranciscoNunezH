@@ -12,21 +12,29 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Función que imprime un mensaje.
-def say_hello(nombre, rol, puesto):    
-    print(f'Hola, gracias por visitar mi perfil, mi nombre es {nombre}, Soy {rol}.'
-          f'\nActualmente me desempeño como {puesto} de '
-          f'un par de rutas de transporte publico de mi Ciudad.'
-          f'\nEspero que encuentres interesante mi trabajo.')
+class Perfil:
+    def __init__(self, nombre, titulo, habilidades, nivel_idioma):
+        self.nombre = nombre
+        self.titulo = titulo
+        self.habilidades = habilidades
+        self.nivel_idioma = nivel_idioma
 
+    def crear_biografia(self):
+        biografia = (
+            f"👋 ¡Hola, soy {self.nombre}! {self.titulo} apasionado por la programación y la tecnología. Mis habilidades incluyen: {self.habilidades}."
+            f"¡Conéctemos y colaboremos! 💻 #TechEnthusiast #Programming #Developer #DataAnalyst #CodeNewbie #CodingCommunity #Django"
+        )
+        return biografia
 
-# Ejecuta todas las instrucciones que contiene.
-if __name__ == '__main__':
-    name = "Francisco Nuñez"
-    role = "Desarrollador"
-    job = "Analista de Datos"
+mi_perfil = Perfil(
+    nombre="Francisco Nuñez Hernandez",
+    titulo="Desarrollador Python 🐍",
+    habilidades="Python, Django, SQL, HTML/CSS, JavaScript",
+    nivel_idioma="Inglés: Nivel B1"
+)
 
-    say_hello(name, role, job)
+biografia = mi_perfil.crear_biografia()
+print(biografia)
 ```
 <br>
 <br>
