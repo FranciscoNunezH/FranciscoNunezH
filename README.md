@@ -18,8 +18,12 @@ class Perfil:
 
     def crear_biografia(self):
         biografia = (
-            f"👋 ¡Hola, soy {self.nombre}! {self.titulo} apasionado por la programación y la tecnología. Mis habilidades incluyen: {self.habilidades}. "
-            f"Otros idiomas: {self.nivel_idioma}. ¡Conéctemos y colaboremos! 💻 #TechEnthusiast #Programming #Developer #DataAnalyst #CodeNewbie #CodingCommunity #Django"
+            f"👋 ¡Hola, soy {self.nombre}! {self.titulo} apasionado por "
+            f"la programación y la tecnología. Mis habilidades incluyen: "
+            f"{self.habilidades}. Otros idiomas: {self.nivel_idioma}. "
+            f"¡Conéctemos y colaboremos! 💻 #TechEnthusiast "
+            f"#Programming #Developer #DataAnalyst #CodeNewbie "
+            f"#CodingCommunity #Django"
         )
         return biografia
 
